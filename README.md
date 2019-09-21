@@ -1,6 +1,11 @@
 # TodoApp
 
+## 操作 
 ![操作](./doc/a.gif)
 
+## ドキュメント
+![ドキュメント](./doc/b.gif)
+
+## 全体像
 ![全体像](
 https://plantuml-server.kkeisuke.app/svg/VPBDIiD058NtzoaktQXW-m1TI2jLKLghjZlfOffCsz3yTMQY5EaYhQ2W88WR5-fM117tYWyp-FCOtgGcDYgkCdFckoVtdfcIL4oemB5X3b-V7_NuN8TtEZpJuIN8lkNwJ307PO-PthxbTh73RCa1mB2zmCHSPHab5tjSvF0047rcz5cNOyxqZ7uY8ffCiJQJf3j3ER1p98vWb9gKjzOpBXtB9bGQFUxmGfTuP1BfsuWL0kRNjgll5xV8NTFtB5SjHC3ArmPc-zZaKcqqaZvsgGwhLbimCMnDbURGv_MTMbQTDb1frWjAnZ-d9SGdgJ4v9Qu9BxZqR1f29bMfaC6SG35bUMwAfKACZU17Egl2SzMFU1jRvNGcmPcXMabH6XFcpJn6ynRnxVH1Zqy-ZgzrU9W5bgB9YEXobmkcEFpA0_E9YvuSwScJ7h_0NrH0NhlnxRQm-9zT1gpKgW2HVTHivdQewwiR7TvJuv0vcBRzVTd9QgfJC5Yat7sAaqEqoy_GM1m4N0mNqyW1IlI6wFL_0W00.svg "全体像")
